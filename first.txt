@@ -1,6 +1,2 @@
 This is my first file
-more !
-more !
-more !
-more !
-more !
+I added after the branch.
